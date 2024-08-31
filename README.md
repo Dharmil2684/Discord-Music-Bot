@@ -1,5 +1,5 @@
 # Discord Music Bot
-at Technical Festival Contest, SVNIT
+at Technical Festival Contest, SVNIT'2023
 
 ## Overview
 
