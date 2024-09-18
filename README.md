@@ -27,8 +27,8 @@ This Discord music bot allows users to stream audio from YouTube into voice chan
 1. Clone the Repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Dharmil2684/Discord-Music-Bot
+   cd Discord-Music-Bot
 
 2. Install Dependencies:
 
